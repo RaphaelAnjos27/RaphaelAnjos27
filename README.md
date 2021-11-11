@@ -30,9 +30,19 @@ Ao longo da vida fiz alguns pequenos projetos, tanto de programação, quanto da
 que levo construindo já faz alguns anos. Muitos de meus estudos estão diretamente ligados a esse projeto. 
 
 ### Redes Sociais
-<a href="https://google.com">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+
+<a href="https://www.instagram.com/raphael_kanlyangh/">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" width="40"/> 
 </a>
+
+<a href="https://www.artstation.com/rhaphkanlyangh">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/27_Artstation_logo_logos-512.png" width="40"/> 
+</a>
+
+<a href="https://www.linkedin.com/in/raphael-dos-anjos-7bb02b12b/">
+  <img src="https://cdn3.iconfinder.com/data/icons/social-round-corner/512/linkdin__social_media_logo-512.png" width="40"/> 
+</a>
+
 
 <!---
 RaphaelAnjos27/RaphaelAnjos27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
