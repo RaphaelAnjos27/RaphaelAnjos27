@@ -1,12 +1,10 @@
 # RAPHAEL DOS ANJOS (Rhaph Kanlyangh)
 
-Ola, meu nome é Raphael dos anjos, tenho 24 anos e moro no litoral de SP. Aqui em meu perfil do GitHub você encontrará códigos de meus projetos pessoais envolvendo programação. Gosto de programar em JS 
-e recentemente estou aprendendo Python (e estou adorando essa linguagem).
+Meu nome é Raphael dos Anjos, mas também sou conhecido pelo pseudônimo Rhaph Kanlyangh. Tenho 25 anos e sou formado em Técnico de Informática. No entanto, tenho uma paixão pelo design gráfico e atuo muito nesta área. Minhas principais habilidades incluem programação, com especialização em criação de aplicativos web usando Python e desenvolvimento de aplicativos desktop. Além disso, tenho habilidades em design de mídias sociais e peças para impressão. Também tenho especialidade em modelagem 3D, com enfoque principal na modelagem Hardsurface. Todos os meus interesses e hobbies estão relacionados às três áreas em que atuo.
 
 ## Interesses:
 
-Gosto de muitas áreas diferentes, dentre elas temos: Design, Modelagem 3D, Eletrônica e atualmente Programação. 
-Com isso sei um pouco de cada área, conseguindo assim, tocá-las como hobby.
+Minhas principais áreas de interesse são: Design, Modelagem 3D, Eletrônica e Programação. Gosto de explorar e aprender sobre esses assuntos nos meus tempos livres.
 
 Levando em consideração um nível de 1 a 6 em cada habilidade que tenho, tomo isso como resposta:
 
@@ -26,8 +24,7 @@ As ferramentas de Trabalho que mais uso são:
 
 ## Projetos
 
-Ao longo da vida fiz alguns pequenos projetos, tanto de programação, quanto das outras áreas que sigo. Atualmente meu maior projeto é um sistema de RPG de Mesa
-que levo construindo já faz alguns anos. Muitos de meus estudos estão diretamente ligados a esse projeto. 
+Ao longo da vida fiz alguns pequenos projetos, tanto de programação, quanto das outras áreas que sigo. Atualmente meu maior projeto é um sistema de RPG de Mesa que levo construindo já faz alguns anos. Muitos de meus estudos estão diretamente ligados a esse projeto. 
 
 ### Redes Sociais
 
