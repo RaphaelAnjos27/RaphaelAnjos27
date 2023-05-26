@@ -1,6 +1,7 @@
 # RAPHAEL DOS ANJOS (Rhaph Kanlyangh)
 
 Meu nome é Raphael dos Anjos, mas também sou conhecido pelo pseudônimo Rhaph Kanlyangh. Tenho 25 anos e sou formado em Técnico de Informática. No entanto, tenho uma paixão pelo design gráfico e atuo muito nesta área. Minhas principais habilidades incluem programação, com especialização em criação de aplicativos web usando Python e desenvolvimento de aplicativos desktop. Além disso, tenho habilidades em design de mídias sociais e peças para impressão. Também tenho especialidade em modelagem 3D, com enfoque principal na modelagem Hardsurface. Todos os meus interesses e hobbies estão relacionados às três áreas em que atuo.
+- **pagina:** [Link!](https://raphaelanjos27.github.io/Raphael-Page/)
 
 ## Interesses:
 
@@ -12,7 +13,6 @@ Levando em consideração um nível de 1 a 6 em cada habilidade que tenho, tomo 
 |:---:|:---:|:---:|:---:|
 |◈◈◈◇◇◇|◈◈◈◈◇◇|◈◈◈◈◇◇|◈◈◇◇◇◇|
 
-- **pagina:** [Link!](https://raphaelanjos27.github.io/Raphael-Page/)
 
 Meus gostos variam com o tempo, Eletrônica mesmo é uma matéria que não pego já faz algum tempo.
 
