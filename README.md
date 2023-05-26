@@ -12,7 +12,7 @@ Levando em consideração um nível de 1 a 6 em cada habilidade que tenho, tomo 
 |:---:|:---:|:---:|:---:|
 |◈◈◈◇◇◇|◈◈◈◈◇◇|◈◈◈◈◇◇|◈◈◇◇◇◇|
 
-pagina: https://raphaelanjos27.github.io/Raphael-Page/
+- **pagina:** (Link!)[https://raphaelanjos27.github.io/Raphael-Page/]
 
 Meus gostos variam com o tempo, Eletrônica mesmo é uma matéria que não pego já faz algum tempo.
 
